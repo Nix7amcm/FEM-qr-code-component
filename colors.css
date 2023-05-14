@@ -1,3 +1,6 @@
 :root {
-  
+  --page-bg-gray: hsl(212, 45%, 89%);
+  --card-bg-white: hsl(0, 0%, 100%);
+  --big-text-dkblue: hsl(218, 44%, 22%);
+  --small-text-gblue: hsl(220, 15%, 55%);
 }
