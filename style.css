@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  display: grid;    
+  display: grid;
   justify-content: center;
   align-items: end;
   min-height: 100vh;
@@ -39,10 +39,12 @@ main {
   display: flex;
   flex-direction: column;
   max-width: 20.125rem;
-  min-height: fit-content;
   min-height: -moz-fit-content;
+  min-height: fit-content;
   border-radius: 1.25rem;
   background-color: var(--card-bg-white);
+  -webkit-box-shadow: 3px 10px 20px 2px  var(--box-shadow);
+  box-shadow: 3px 10px 20px 2px var(--box-shadow);
 }
 
 .qr-code {
@@ -69,6 +71,4 @@ p {
 
 /****** MOBILE STYLES ******/
 
-@media (max-width: 23.4375rem) {
-
-}
+@media (max-width: 23.4375rem) {}

@@ -3,4 +3,5 @@
   --card-bg-white: hsl(0, 0%, 100%);
   --big-text-dkblue: hsl(218, 44%, 22%);
   --small-text-gblue: hsl(220, 15%, 55%);
+  --box-shadow: hsla(215, 10%, 77%, 0.711);
 }
