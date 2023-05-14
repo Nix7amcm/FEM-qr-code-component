@@ -29,8 +29,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-OC02tPKQ1K](https://www.frontendmentor.io/solutions/qr-code-component-OC02tPKQ1K)
+- Live Site URL: [https://nix7amcm.github.io/FEM-qr-code-component/](https://nix7amcm.github.io/FEM-qr-code-component/)
 
 
 ## Built with
